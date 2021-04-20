@@ -19,12 +19,11 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### Day 1: April 19, 2021 Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I reviewed the ViT pre-work code I submitted; and sat through 2 hours of coding instruction (8-10 pm) and coded along during class exercises. Downloaded Live Server extension for Visual Studio. 
 
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [ViT Week1 Day 1] (https://github.com/jessyoo/web-dev-spring-2021/tree/master/week-1/day-1)
